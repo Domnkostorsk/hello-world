@@ -1,7 +1,3 @@
 # hello-world
-p<
-   my name is:>
-   
-h1<
-Domnkostorsk
->
+mi_nombre = "Domnkostorsk"
+print = (mi_nombre)
